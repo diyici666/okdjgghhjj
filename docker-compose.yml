@@ -1,6 +1,6 @@
 services:
   app:
-    image: richkevin996/okdjxjgit:okdjxj
+    image: diyici666/okdjxjgit:okdjxj
     ports:
       - "80:3000"
     environment:
