@@ -1,5 +1,5 @@
 services:
-  app:
+  okdjxj:
     image: richkevin996/okarjjmbv:okdjxj
     ports:
       - "80:3000"
